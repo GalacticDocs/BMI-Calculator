@@ -1,0 +1,23 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "BMI Calculators inspired from a YouTube short by [Tech Decode Tutorials](https://www.youtube.com/c/TechDecode)",
+  "main": "BMI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalacticDocs/BMI-Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GalacticDocs/BMI-Calculator/issues"
+  },
+  "homepage": "https://github.com/GalacticDocs/BMI-Calculator#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
