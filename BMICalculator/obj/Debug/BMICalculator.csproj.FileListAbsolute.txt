@@ -1,0 +1,7 @@
+E:\Github\BMI-Calculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+E:\Github\BMI-Calculator\BMICalculator\bin\Debug\BMICalculator.exe
+E:\Github\BMI-Calculator\BMICalculator\bin\Debug\BMICalculator.pdb
+E:\Github\BMI-Calculator\BMICalculator\obj\Debug\BMICalculator.csprojAssemblyReference.cache
+E:\Github\BMI-Calculator\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+E:\Github\BMI-Calculator\BMICalculator\obj\Debug\BMICalculator.exe
+E:\Github\BMI-Calculator\BMICalculator\obj\Debug\BMICalculator.pdb
