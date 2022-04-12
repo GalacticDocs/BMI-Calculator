@@ -36,13 +36,13 @@ readline.question("Enter your height in cm: ", (_height: string) => {
         const BMI: number = (TurnIntoInt(weight) / TurnIntoInt(height) / TurnIntoInt(height)) * 10000;
         const FORMATTED: string = ReadSingularDecimal(BMI);
 
-        console.log(`\nYour Body Mass Index is: ${ReadSingularDecimal(BMI)}\n`);
+        console.log(`\nYour Body Mass Index is: ${FORMATTED}\n`);
 
-        if (BMI <= 18.5) {
+        if (FORMATTED <= 18.5) {
             console.log("Result: You are underweight.");
-        } else if (BMI <= 24.9) {
+        } else if (FORMATTED <= 24.9) {
             console.log("Result: Awesome! You are healthy.");
-        } else if (BMI <= 29.9) {
+        } else if (FORMATTED <= 29.9) {
             console.log("Result: You are overweight.");
         } else {
             console.log("Result: You are obese.");
