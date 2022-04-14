@@ -3,3 +3,7 @@
 
 ## Possible languages:
 [C# - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/C%23)
+[GO - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/GOlang)
+[JavaScript - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/JavaScript)
+[Python - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/Python)
+[TypeScript - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/TypeScript)
