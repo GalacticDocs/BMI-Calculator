@@ -2,8 +2,8 @@
 (Click the branch to switch to wished language)
 
 ## Possible languages:
-> [C# - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/C%23)
-> [GO - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/GOlang)
-> [JavaScript - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/JavaScript)
-> [Python - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/Python)
-> [TypeScript - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/TypeScript)
+> [C# - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/C%23)\n
+> [GO - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/GOlang)\n
+> [JavaScript - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/JavaScript)\n
+> [Python - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/Python)\n
+> [TypeScript - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/TypeScript)\n
