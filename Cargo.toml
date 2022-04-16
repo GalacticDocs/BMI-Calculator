@@ -3,5 +3,4 @@ name = "bmi_calculator"
 version = "0.1.0"
 
 [dependencies]
-time = "0.1.12"
-regex = "0.1.41"
+regex = "1"
