@@ -3,8 +3,9 @@
 
 ## Possible languages:
 > [C# - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/C%23)<br>
-> [Java - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/Java)<br>
+> [CoffeeScript - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/CoffeeScript)<br>
 > [GO - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/GOlang)<br>
+> [Java - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/Java)<br>
 > [JavaScript - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/JavaScript)<br>
 > [Python - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/Python)<br>
 > [Rust - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/Rust)<br>
