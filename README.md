@@ -9,4 +9,5 @@
 > [JavaScript - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/JavaScript)<br>
 > [Python - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/Python)<br>
 > [Rust - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/Rust)<br>
-> [TypeScript - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/TypeScript)
+> [TypeScript - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/TypeScript)<br>
+> [VB - BMI Calculator](https://github.com/GalacticDocs/BMI-Calculator/tree/VB)
